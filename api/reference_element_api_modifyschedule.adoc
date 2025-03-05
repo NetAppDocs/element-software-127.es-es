@@ -182,13 +182,17 @@ Sí
  a| 
 El nombre único que se le asignó a la programación, el período de retención de la copia de Snapshot que se creó y el ID de volumen del volumen a partir del cual se creó la copia de Snapshot. Valores válidos:
 
+* `enableRemoteReplication`: Indica si la instantánea debe incluirse en la replicación remota. (booleano)
+* `ensureSerialCreation`: Especifica si se debe permitir la creación de una nueva instantánea si se está realizando una replicación de instantánea anterior. (booleano)
+* `name`: El nombre de snapshot que se va a utilizar. (cadena)
+* `retention`: La cantidad de tiempo que se retiene la instantánea. Dependiendo de la hora, se muestra en uno de los siguientes formatos:
++
+** `fifo`: La instantánea se mantiene en base al primero en primero en salir (FIFO). Si está vacío, la copia de Snapshot se conserva siempre. (cadena)
+** HH:mm:ss
+
+
 * `volumeID`: El ID del volumen que se incluirá en la snapshot. (entero)
 * `volumes`: Una lista de los ID de volumen que se incluirán en la snapshot de grupo. (matriz entera)
-* `name`: El nombre de snapshot que se va a utilizar. (cadena)
-* `enableRemoteReplication`: Indica si la instantánea debe incluirse en la replicación remota. (booleano)
-* `retention`: La cantidad de tiempo que la instantánea se retendrá en HH:MM:ss. Si está vacío, la copia de Snapshot se conserva siempre. (cadena)
-* `fifo`: La instantánea se mantiene en base al primero en primero en salir (FIFO). (cadena)
-* `ensureSerialCreation`: Especifique si se debe permitir una nueva creación de instantáneas si hay una replicación de instantáneas anterior en curso. (booleano)
 
  a| 
 link:reference_element_api_schedule.html["programación"^]
