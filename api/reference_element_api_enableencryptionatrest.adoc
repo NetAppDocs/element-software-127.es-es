@@ -14,7 +14,7 @@ summary: 'Puede usar el método EnableEncryptionAtRest para habilitar el cifrado
 Puede usar el `EnableEncryptionAtRest` método para habilitar el cifrado estándar de cifrado avanzado (AES) de 256 bits en reposo en el clúster de modo que el clúster pueda gestionar la clave de cifrado utilizada para las unidades en cada nodo. Esta función no está habilitada de forma predeterminada.
 
 
-TIP: Para ver el estado actual del cifrado en reposo o el cifrado de software en reposo en el clúster, utilice el link:../api/reference_element_api_getclusterinfo["obtenga el método de información del clúster"^]. Puede utilizar el `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo["método para obtener información que utiliza el clúster para cifrar datos en reposo"^].
+TIP: Para ver el estado actual del cifrado en reposo o el cifrado de software en reposo en el clúster, utilice el link:../api/reference_element_api_getclusterinfo.html["obtenga el método de información del clúster"^]. Puede utilizar el `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo.html["método para obtener información que utiliza el clúster para cifrar datos en reposo"^].
 
 
 NOTE: Este método no habilita el cifrado de software en reposo. Esto sólo se puede hacer utilizando el link:../api/reference_element_api_createcluster.html["cree el método de clúster"^] con `enableSoftwareEncryptionAtRest` establecido en `true`.

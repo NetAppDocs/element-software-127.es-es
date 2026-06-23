@@ -44,7 +44,7 @@ IMPORTANT: Debe configurar las interfaces de gestión (Bond1G) y almacenamiento 
 .Pasos
 . En una ventana del navegador, introduzca la dirección IP de DHCP de un nodo.
 +
-Debe añadir la extensión `:442` para acceder al nodo; por ejemplo, https://172.25.103.6:442[].
+Debes añadir la extensión `:442` para acceder al nodo; por ejemplo, `\https://172.25.103.6:442`.
 
 +
 La ficha *Configuración de red* se abre con la sección *Bond1G*.
