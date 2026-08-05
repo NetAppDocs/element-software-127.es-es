@@ -24,6 +24,7 @@ Es posible configurar un clúster con nodos de almacenamiento y gestionarlo medi
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

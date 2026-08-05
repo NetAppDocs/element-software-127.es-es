@@ -36,6 +36,7 @@ Con el plugin de Element para vCenter Server 4.x, cuando se actualiza a VMware v
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

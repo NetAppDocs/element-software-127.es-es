@@ -26,6 +26,7 @@ Los métodos de grupo de acceso de volúmenes permiten añadir, quitar, ver y mo
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

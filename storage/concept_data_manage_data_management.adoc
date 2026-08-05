@@ -20,6 +20,7 @@ Es posible gestionar los datos en un clúster que ejecuta el software Element de
 
 
 
+[[for-more-information]]
 == Si quiere más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

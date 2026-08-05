@@ -68,6 +68,7 @@ Puede usar métodos API de nodo para configurar nodos individuales. Estos métod
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

@@ -15,6 +15,7 @@ Para gestionar las cuentas de administrador de clúster correspondientes a un si
 
 
 
+[[storage-cluster-administrator-account-types]]
 == Tipos de cuenta de administrador del clúster de almacenamiento
 
 Existen dos tipos de cuentas de administrador que pueden existir en un clúster de almacenamiento que ejecuta el software NetApp Element: La cuenta de administrador de clúster principal y una cuenta de administrador de clúster.
@@ -34,6 +35,7 @@ NOTE: Se necesita una cuenta de administrador de clúster local (que no sea LDAP
 
 
 
+[[view-cluster-admin-details]]
 == Ver los detalles de administrador del clúster
 
 . Si desea crear una cuenta de administrador de clúster (que no sea LDAP) para todo el clúster, realice las siguientes acciones:
@@ -61,9 +63,13 @@ NOTE: Se necesita una cuenta de administrador de clúster local (que no sea LDAP
 
 
 +
+[NOTE]
+====
+Todos los permisos están disponibles para el tipo de acceso del administrador.
 
-NOTE: Todos los permisos están disponibles para el tipo de acceso del administrador.
+Hay tipos de acceso disponibles a través de la API que no están disponibles en la interfaz de usuario de Element.
 
+====
 +
 ** *Tipo*: El tipo de administrador de clúster. Los posibles valores son los siguientes:
 +
@@ -81,6 +87,8 @@ Consulte link:../api/index.html["Referencia de API del software NetApp Element"]
 
 
 
+[[create-a-cluster-administrator-account]]
+[[create_cluster_admin_account]]
 == Cree una cuenta de administrador de clúster
 
 Es posible crear nuevas cuentas de administrador de clúster con permisos para conceder o restringir el acceso a determinadas áreas del sistema de almacenamiento. Cuando se configuran los permisos de la cuenta de administrador del clúster, el sistema otorga derechos de solo lectura a aquellos permisos que no se asignen al administrador del clúster.
@@ -128,6 +136,7 @@ Para agregar usuarios o grupos de administración de clúster LDAP, el formato g
 
 
 
+[[edit-cluster-administrator-permissions]]
 == Edite los permisos de administrador del clúster
 
 Los privilegios de la cuenta de administrador de clúster se pueden cambiar para crear informes, nodos, unidades, volúmenes y cuentas. y acceso a nivel de clúster. Cuando habilita un permiso, el sistema asigna acceso de escritura para ese nivel. Para los niveles que no se seleccionan, el sistema concede al usuario administrador acceso de solo lectura.
@@ -141,6 +150,7 @@ Los privilegios de la cuenta de administrador de clúster se pueden cambiar para
 
 
 
+[[change-passwords-for-cluster-administrator-accounts]]
 == Cambiar contraseñas de las cuentas de administrador del clúster
 
 Es posible usar la interfaz de usuario de Element para cambiar las contraseñas de administrador de clúster.
@@ -152,12 +162,9 @@ Es posible usar la interfaz de usuario de Element para cambiar las contraseñas 
 . Haga clic en *Guardar cambios*.
 
 
-
-
-== Obtenga más información
-
+.Información relacionada
+* link:../api/reference_element_api_app_b_access_control.html["Infórmate sobre los tipos de acceso disponibles para las Element APIs"]
 * link:task_system_manage_enable_ldap_authentication.html["Habilite la autenticación de LDAP con la interfaz de usuario de Element"]
 * link:concept_system_manage_manage_ldap.html["Desactive LDAP"]
-* https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]
 * https://docs.netapp.com/us-en/vcp/index.html["Plugin de NetApp Element para vCenter Server"^]
 

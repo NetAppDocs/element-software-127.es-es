@@ -15,6 +15,7 @@ El sistema SolidFire aprovisiona el almacenamiento mediante volúmenes. Los vol�
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * link:concept_data_manage_volumes_quality_of_service_policies.html["Gestione políticas de calidad de servicio"]

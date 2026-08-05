@@ -17,6 +17,7 @@ Las conexiones al clúster de almacenamiento se separan en la pila de redes medi
 
 
 
+[[prerequisites-for-setting-up-a-multitenant-virtual-network]]
 == Requisitos previos para configurar una red virtual multitenant
 
 * Se debe haber identificado el bloque de direcciones IP de red de cliente que se asignarán a las redes virtuales en los nodos de almacenamiento.
@@ -25,6 +26,7 @@ Las conexiones al clúster de almacenamiento se separan en la pila de redes medi
 
 
 
+[[virtual-networking-order-of-operations]]
 == Orden de operaciones de red virtual
 
 . Utilice el método AddVirtualNetwork para aprovisionar en lote las direcciones IP que introduzca.
@@ -42,6 +44,7 @@ Después de añadir una red virtual, el clúster realiza de forma automática lo
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * xref:concept_element_api_virtual_network_naming_conventions.adoc[Convenciones de nomenclatura de redes virtuales]

@@ -35,6 +35,7 @@ Para obtener información sobre cada método, consulte link:../api/index.html["R
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * link:../api/index.html["Gestionar el almacenamiento con la API de Element"]

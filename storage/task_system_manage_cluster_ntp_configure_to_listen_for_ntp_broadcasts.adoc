@@ -28,6 +28,7 @@ Con el modo de retransmisión, puede ordenar a cada nodo de un clúster que escu
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

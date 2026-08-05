@@ -29,6 +29,7 @@ Puede comprobar si la función de unidades FIPS está habilitada en el clúster 
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * link:../api/index.html["Gestione el almacenamiento con la API de Element"]

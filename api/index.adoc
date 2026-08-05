@@ -44,6 +44,7 @@ La API de Element se basa en el protocolo JSON-RPC a través de HTTPS. JSON-RPC 
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * http://docs.netapp.com/sfe-122/index.jsp["Centro de documentación de SolidFire y el software Element"^]

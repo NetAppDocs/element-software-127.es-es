@@ -24,6 +24,7 @@ Es posible usar métodos de API de administrador para crear, modificar, ver y qu
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

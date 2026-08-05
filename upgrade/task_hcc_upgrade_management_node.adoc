@@ -36,6 +36,7 @@ NOTE: Si no actualiza secuencialmente los servicios de gestión seguidos por el 
 
 
 
+[[upgrade-a-management-node-to-version-12-5-or-later-from-version-12-3-x-or-later]]
 == Actualice un nodo de gestión a la versión 12.5 o posterior desde la versión 12.3.x o posterior
 
 Puede realizar una actualización sin movimiento del nodo de gestión desde la versión 12.3.x o posterior a la versión 12.5 o posterior sin necesidad de aprovisionar una nueva máquina virtual del nodo de gestión.
@@ -129,6 +130,7 @@ IMPORTANT: Si previamente había deshabilitado la funcionalidad SSH en el nodo d
 
 
 
+[[reconfigure-authentication-using-the-management-node-rest-api]]
 == Volver a configurar la autenticación mediante la API DE REST del nodo de gestión
 
 Se puede conservar el nodo de gestión existente si se actualizaron secuencialmente (1) y (2) el almacenamiento de Element. Si ha seguido un orden de actualización diferente, consulte los procedimientos para actualizar nodos de gestión sin movimiento.

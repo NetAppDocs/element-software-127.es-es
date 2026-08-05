@@ -15,6 +15,7 @@ Cuando se mitigó el problema en el lado primario, se debe volver a sincronizar 
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * xref:task_snapmirror_perform_failback_when_source_volume_exists.adoc[Realice una conmutación tras recuperación cuando el volumen de origen siga existiendo]

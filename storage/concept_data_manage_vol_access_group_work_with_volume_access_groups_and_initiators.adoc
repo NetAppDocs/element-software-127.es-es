@@ -36,6 +36,7 @@ NOTE: Los grupos de acceso de volúmenes presentan los siguientes límites:
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * xref:task_data_manage_vol_access_group_create_a_volume_access_group.adoc[Cree un grupo de acceso de volúmenes]

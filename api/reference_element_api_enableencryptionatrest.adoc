@@ -34,6 +34,7 @@ NOTE: Este proceso es asíncrono y devuelve una respuesta antes de activar el ci
 
 
 
+[[parameters]]
 == Parámetros
 
 Este método tiene los siguientes parámetros de entrada:
@@ -56,12 +57,14 @@ No
 |===
 
 
+[[return-values]]
 == Valores devueltos
 
 Este método no tiene valores devueltos.
 
 
 
+[[request-example]]
 == Ejemplo de solicitud
 
 Las solicitudes de este método son similares al ejemplo siguiente:
@@ -76,6 +79,7 @@ Las solicitudes de este método son similares al ejemplo siguiente:
 ----
 
 
+[[response-examples]]
 == Ejemplos de respuestas
 
 Este método devuelve una respuesta similar al siguiente ejemplo del método EnableEncryptionAtRest. No hay resultados para informar.
@@ -115,6 +119,7 @@ Mientras que el cifrado en reposo se está habilitado en un clúster, GetCluster
 ----
 
 
+[[new-since-version]]
 == Nuevo desde la versión
 
 9,6

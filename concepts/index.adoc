@@ -26,6 +26,7 @@ Conozca los conceptos básicos relacionados con el software Element.
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://www.netapp.com/data-storage/solidfire/["Información general sobre el almacenamiento all-flash de SolidFire"^]

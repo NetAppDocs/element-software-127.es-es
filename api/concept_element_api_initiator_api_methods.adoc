@@ -21,6 +21,7 @@ Los métodos de iniciador permiten añadir, quitar, ver y modificar objetos de i
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

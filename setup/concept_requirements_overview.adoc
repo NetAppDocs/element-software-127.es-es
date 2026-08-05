@@ -20,6 +20,7 @@ Antes de empezar, debe revisar los requisitos previos para implementar el softwa
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

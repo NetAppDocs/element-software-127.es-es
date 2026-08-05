@@ -15,6 +15,7 @@ Puede utilizar el `RekeySoftwareEncryptionAtRestMasterKey` método para volver a
 
 
 
+[[parameters]]
 == Parámetros
 
 Este método tiene los siguientes parámetros de entrada. Si no se especifica el `keyManagementType` parámetro, la operación de regeneración de claves se realiza mediante la configuración de gestión de claves existente. Si se especifica el `keyManagementType` y el proveedor de claves es externo, `keyProviderID` también se debe utilizar el parámetro.
@@ -33,6 +34,7 @@ Este método tiene los siguientes parámetros de entrada. Si no se especifica el
 |===
 
 
+[[return-values]]
 == Valores devueltos
 
 Este método tiene los siguientes valores devueltos:
@@ -46,6 +48,7 @@ Este método tiene los siguientes valores devueltos:
 |===
 
 
+[[request-example]]
 == Ejemplo de solicitud
 
 Las solicitudes de este método son similares al ejemplo siguiente:
@@ -62,6 +65,7 @@ Las solicitudes de este método son similares al ejemplo siguiente:
 ----
 
 
+[[response-example]]
 == Ejemplo de respuesta
 
 Este método devuelve una respuesta similar al siguiente ejemplo:
@@ -74,6 +78,7 @@ Este método devuelve una respuesta similar al siguiente ejemplo:
 ----
 
 
+[[new-since-version]]
 == Nuevo desde la versión
 
 12,3

@@ -22,6 +22,7 @@ NOTE: Para configurar Active IQ, use el `--telemetry_active` parámetro del scri
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

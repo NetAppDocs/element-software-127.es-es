@@ -28,6 +28,7 @@ Los métodos de API de volumen virtual del software Element permiten gestionar v
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]

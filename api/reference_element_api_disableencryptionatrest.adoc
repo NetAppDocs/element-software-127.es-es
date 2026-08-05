@@ -21,18 +21,21 @@ NOTE: No se puede usar este método para deshabilitar el cifrado de software en 
 
 
 
+[[parameters]]
 == Parámetros
 
 Este método no tiene parámetros de entrada.
 
 
 
+[[return-values]]
 == Valores devueltos
 
 Este método no tiene valores devueltos.
 
 
 
+[[request-example]]
 == Ejemplo de solicitud
 
 Las solicitudes de este método son similares al ejemplo siguiente:
@@ -47,6 +50,7 @@ Las solicitudes de este método son similares al ejemplo siguiente:
 ----
 
 
+[[response-example]]
 == Ejemplo de respuesta
 
 Este método devuelve una respuesta similar al siguiente ejemplo:
@@ -60,6 +64,7 @@ Este método devuelve una respuesta similar al siguiente ejemplo:
 ----
 
 
+[[new-since-version]]
 == Nuevo desde la versión
 
 9,6
@@ -67,7 +72,7 @@ Este método devuelve una respuesta similar al siguiente ejemplo:
 [discrete]
 == Obtenga más información
 
-* link:api/reference_element_api_getclusterinfo.html["GetClusterInfo"]
+* link:../api/reference_element_api_getclusterinfo.html["GetClusterInfo"]
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]
 * https://docs.netapp.com/sfe-122/topic/com.netapp.ndc.sfe-vers/GUID-B1944B0E-B335-4E0B-B9F1-E960BF32AE56.html["Documentación para versiones anteriores de SolidFire de NetApp y los productos Element"^]
 

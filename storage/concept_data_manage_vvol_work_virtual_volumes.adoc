@@ -27,6 +27,7 @@ NOTE: La compatibilidad CON VASA para varias vCenter está disponible como revis
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * xref:task_data_manage_vvol_enable_virtual_volumes.adoc[Habilite Virtual Volumes]

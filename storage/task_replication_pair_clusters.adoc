@@ -28,6 +28,7 @@ Un clúster se puede emparejar con hasta otros cuatro clústeres para replicar v
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 xref:reference_prereq_network_port_requirements.adoc[Requisitos de puerto de red]

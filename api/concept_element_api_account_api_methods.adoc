@@ -24,6 +24,7 @@ Los métodos de cuentas permiten agregar, quitar, ver y modificar la informació
 
 
 
+[[find-more-information]]
 == Obtenga más información
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentación de SolidFire y el software Element"]
